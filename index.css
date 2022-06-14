@@ -3,8 +3,27 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+:root{
+    --primary-color: #EAEDED;
+    --secondary-color: white;
+}
+.dark-theme{
+    --primary-color: #131921;
+    --secondary-color: #617b9c;
+}
 body{
-    background-color: #EAEDED;
+    background-color: var(--primary-color);
+}
+#darkMode {
+    cursor: pointer;
+    margin: 20px;
+    width: 36px;
+    padding: 10px;
+    background-color: #ff9900;
+    border-radius: 5px;
+}
+#darkMode:hover{
+    background-color: #e76800;
 }
 .main-nav{
     width: 100%;
@@ -81,12 +100,19 @@ body{
     font-weight: bold;
     font-size: large;
 }
+.signin-a{
+    margin-left: 20px;
+    margin-right: 20px;
+}
 .nav-returns p{
     margin-bottom: 0;
 }
 .nav-returns span{
     font-weight: bold;
     font-size: large;
+}
+.nav-returns{
+    margin-left: 20px;
 }
 .nav-cart{
     margin: 20px;
@@ -154,7 +180,7 @@ body{
     margin-left: 10%;
 }
 .h-tile{
-    background-color: white;
+    background-color: var(--secondary-color);
     padding: 10px;
     margin-right: 20px;
     margin-left: 20px;
@@ -165,7 +191,7 @@ body{
     text-decoration: none;
 }
 .s-tile{
-    background-color: white;
+    background-color: var(--secondary-color);
     width: 355.60px;
     height: 405px;
     margin: 10px;
@@ -187,7 +213,7 @@ body{
     width: 150px;
     margin: 4px 4px;
     overflow: hidden;
-    background-color: #f7f7f7;
+    background-color: var(--secondary-color);
 }
 .box a{
     color: #212529;
@@ -270,7 +296,7 @@ body{
 .tile-head2{
     text-align: center;
     height: 100px;
-    background-color: white;
+    background-color: var(--secondary-color);
 }
 .tile-head2 h4{
     font-size: 18px;
@@ -316,7 +342,7 @@ body{
     margin-right: 10%;
     margin-left: 10%;
     position: relative;
-    background-color: white;
+    background-color: var(--secondary-color);
 }
 .prod-area-head{
     position: relative;
@@ -373,7 +399,7 @@ body{
 .sub-signin{
     text-align: center;
     padding: 20px;
-    background-color: white;
+    background-color: var(--secondary-color);
 }
 .sub-signin-head h4{
     font-size: 18px;

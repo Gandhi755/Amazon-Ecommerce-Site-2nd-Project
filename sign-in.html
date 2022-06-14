@@ -20,6 +20,7 @@
             <div class="nav-cart">
                 <span>Get ready for shopping with amazon !</span>
             </div>
+            <img src="images/sun-solid.svg" alt="Icon" id="darkMode">
         </nav>
     </header>
     <section class="signin-page">
@@ -175,5 +176,17 @@
             </ul>
         </div>
     </footer>
+    <script>
+        var darkMode = document.getElementById("darkMode");
+        darkMode.onclick = function(){
+            document.body.classList.toggle("dark-theme");
+            if(document.body.classList.contains("dark-theme")){
+                darkMode.src="images/sun-solid.svg"
+            }
+            else{
+                darkMode.src="images/moon-solid.svg"
+            }
+        }
+    </script>
 </body>
 </html>

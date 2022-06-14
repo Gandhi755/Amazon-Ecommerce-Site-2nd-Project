@@ -74,6 +74,7 @@
                 <i class="fa-solid fa-cart-shopping"></i><span class="badge rounded-pill bg-danger">0</span>
                 <span>Cart</span>
             </div>
+                <img src="images/sun-solid.svg" alt="Icon" id="darkMode">
         </nav>
         <div class="nav-belt">
             <div class="left-list">
@@ -460,5 +461,17 @@
             </ul>
         </div>
     </footer>
+    <script>
+        var darkMode = document.getElementById("darkMode");
+        darkMode.onclick = function(){
+            document.body.classList.toggle("dark-theme");
+            if(document.body.classList.contains("dark-theme")){
+                darkMode.src="images/sun-solid.svg"
+            }
+            else{
+                darkMode.src="images/moon-solid.svg"
+            }
+        }
+    </script>
 </body>
 </html>
