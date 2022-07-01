@@ -150,7 +150,84 @@
         "Price": 699,
         "Size": "Large",
         "Image": "https://i.im.ge/2022/07/01/uDj8ym.jpg",
-        "Color": "Orange",
+        "Color": "White",
         "Brand": "Amazon"
     },
+    {
+        "id": 15,
+        "product_name": "Power 'S' Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 699,
+        "Size": "Small",
+        "Image": "https://i.im.ge/2022/07/01/uDjkoc.jpg",
+        "Color": "White",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 16,
+        "product_name": "Power 'S' Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 699,
+        "Size": "Large",
+        "Image": "https://i.im.ge/2022/07/01/uDjkoc.jpg",
+        "Color": "White",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 17,
+        "product_name": "Brocken Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 799,
+        "Size": "Large",
+        "Image": "https://i.im.ge/2022/07/01/uDjnyJ.jpg",
+        "Color": "White",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 18,
+        "product_name": "Dinosaur Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 399,
+        "Size": "Small",
+        "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+        "Color": "Black",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 19,
+        "product_name": "Dinosaur Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 399,
+        "Size": "Medium",
+        "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+        "Color": "Black",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 20,
+        "product_name": "Dinosaur Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 449,
+        "Size": "Large",
+        "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+        "Color": "Black",
+        "Brand": "Amazon"
+    },
+    {
+        "id": 21,
+        "product_name": "Dinosaur Tee",
+        "categories": "Boy's Fashion",
+        "categories_id": 7,
+        "Price": 449,
+        "Size": "Extra Large",
+        "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+        "Color": "Black",
+        "Brand": "Amazon"
+    }
 ]
