@@ -1,0 +1,349 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name":"All Departments"
+        },
+        {
+            "id":2,
+            "name":"Arts & Crafts"
+        },
+        {
+            "id":3,
+            "name":"Automotive"
+        },
+        {
+            "id":4,
+            "name":"Baby"
+        },
+        {
+            "id":5,
+            "name":"Beauty & Personal Care"
+        },
+        {
+            "id":6,
+            "name":"Books"
+        },
+        {
+            "id":7,
+            "name":"Boy's Fashion"
+        },
+        {
+            "id":8,
+            "name":"Computers"
+        },
+        {
+            "id":9,
+            "name":"Deals"
+        },
+        {
+            "id":10,
+            "name":"Digital Music"
+        },
+        {
+            "id":11,
+            "name":"Electronics"
+        },
+        {
+            "id":12,
+            "name":"Girl's Fashion"
+        },
+        {
+            "id":13,
+            "name":"Health & Household"
+        },
+        {
+            "id":14,
+            "name":"Home & Kitchen"
+        },
+        {
+            "id":15,
+            "name":"industrial & Scientific"
+        },
+        {
+            "id":16,
+            "name":"Kindle Store"
+        },
+        {
+            "id":17,
+            "name":"Luggage"
+        },
+        {
+            "id":18,
+            "name":"Men's Fashion"
+        },
+        {
+            "id":19,
+            "name":"Movies & TV"
+        },
+        {
+            "id":20,
+            "name":"Music, CDs & Vinyl"
+        },
+        {
+            "id":21,
+            "name":"Pet Supplies"
+        },
+        {
+            "id":22,
+            "name":"Prime Video"
+        },
+        {
+            "id":23,
+            "name":"Software"
+        },
+        {
+            "id":24,
+            "name":"Sports Outdoors"
+        },
+        {
+            "id":25,
+            "name":"Tools & Home Improvement"
+        },
+        {
+            "id":26,
+            "name":"Toys & Games"
+        },
+        {
+            "id":27,
+            "name":"Video Games"
+        },
+        {
+            "id":28,
+            "name":"Women's Fashion"
+        }
+    ],
+    "products":[
+        {
+            "id": 1,
+            "product_name": "Do Your Own Thing Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDjQ31.webp",
+            "Color": "Blue & White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 2,
+            "product_name": "Do Your Own Thing Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Medium",
+            "Image": "https://i.im.ge/2022/07/01/uDjQ31.webp",
+            "Color": "Blue & White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 3,
+            "product_name": "Do Your Own Thing Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjQ31.webp",
+            "Color": "Blue & White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 4,
+            "product_name": "Just Do It Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 549,
+            "Size": "Medium",
+            "Image": "https://i.im.ge/2022/07/01/uDjTnf.webp",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 5,
+            "product_name": "Just Do It Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 699,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjTnf.webp",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 6,
+            "product_name": "Super Jatt Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDjrkW.jpg",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 7,
+            "product_name": "Striped Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDjs4a.webp",
+            "Color": "Grey & Off White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 8,
+            "product_name": "Striped Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 599,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjs4a.webp",
+            "Color": "Grey & Off White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 9,
+            "product_name": "Logo Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 599,
+            "Size": "Medium",
+            "Image": "https://i.im.ge/2022/07/01/uDjUFz.webp",
+            "Color": "Orange",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 10,
+            "product_name": "Logo Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 599,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjUFz.webp",
+            "Color": "Orange",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 11,
+            "product_name": "Logo Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 699,
+            "Size": "Extra Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjUFz.webp",
+            "Color": "Orange",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 12,
+            "product_name": "Shark Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDjbB1.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 13,
+            "product_name": "Shark Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 499,
+            "Size": "Medium",
+            "Image": "https://i.im.ge/2022/07/01/uDjbB1.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 14,
+            "product_name": "Scribble Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 699,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDj8ym.jpg",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 15,
+            "product_name": "Power 'S' Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 699,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDjkoc.jpg",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 16,
+            "product_name": "Power 'S' Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 699,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjkoc.jpg",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 17,
+            "product_name": "Brocken Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 799,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDjnyJ.jpg",
+            "Color": "White",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 18,
+            "product_name": "Dinosaur Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 399,
+            "Size": "Small",
+            "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 19,
+            "product_name": "Dinosaur Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 399,
+            "Size": "Medium",
+            "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 20,
+            "product_name": "Dinosaur Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 449,
+            "Size": "Large",
+            "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        },
+        {
+            "id": 21,
+            "product_name": "Dinosaur Tee",
+            "categories": "Boy's Fashion",
+            "categories_id": 7,
+            "Price": 449,
+            "Size": "Extra Large",
+            "Image": "https://i.im.ge/2022/07/01/uDj4Hy.webp",
+            "Color": "Black",
+            "Brand": "Amazon"
+        }
+    ]
+}
