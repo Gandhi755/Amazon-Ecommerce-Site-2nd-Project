@@ -8,7 +8,7 @@ var stateObject = {
 }
 window.onload = function () {
 var zoneSel = document.getElementById("zoneSel")
-for (var country in stateObject) {
-    zoneSel.options[zoneSel.options.length] = new Option(country, country);
+for (var state in stateObject) {
+    zoneSel.options[zoneSel.options.length] = new Option(state, state);
     }
 }
