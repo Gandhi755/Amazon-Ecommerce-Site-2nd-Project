@@ -1,5 +1,4 @@
-{
-    "products":[
+db.products.insert([
         {
             "id": 1,
             "product_name": "Do Your Own Thing Tee",
@@ -231,5 +230,4 @@
             "Color": "Black",
             "Brand": "Amazon"
         }
-    ]
-}
+])

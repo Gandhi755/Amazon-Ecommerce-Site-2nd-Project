@@ -1,5 +1,4 @@
-{
-    "categories":[
+db.categories.insert([
         {
             "id":1,
             "name":"All Departments"
@@ -112,5 +111,5 @@
             "id":28,
             "name":"Women's Fashion"
         }
-    ]
-}
+    
+])
